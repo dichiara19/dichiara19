@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Gabriele Di Chiara</h1>
-<h3 align="center">A passionate web developer, a wordpress expert</h3>
+<h3 align="center">A passionate web developer, a Wordpress expert</h3>
 
 - 🔭 I’m currently working on [Cous Cous Fest ticketing](shop.couscousfest.it)
 
