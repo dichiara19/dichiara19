@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Gabriele Di Chiara</h1>
 <h3 align="center">A passionate web developer, a Wordpress expert</h3>
 
-- 🔭 I’m currently working on [EDenMeD Platform](edenmed.eu)
-
-- 🌱 I’m currently learning **AngularJS, Vue.js, TensorFlow. I am also studying headless applications with Wordpress**
-
 - 👯 I’m looking to collaborate on **web projects**
 
 - 👨‍💻 All of my projects are available at [behance.net/giuseppdichia1](behance.net/giuseppdichia1)
 
-- 📝 I regularly write articles on [giuseppegabrieledichiara.it/blog](giuseppegabrieledichiara.it/blog)
-
-- 💬 Ask me about **Wordpress, Drupal, Javascript vanilla**
+- 📝 I <del>regularly</del> write articles on [giuseppegabrieledichiara.it/blog](giuseppegabrieledichiara.it/blog)
 
 - 📫 How to reach me **me@giuseppedichiara.it**
 
