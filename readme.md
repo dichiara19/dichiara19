@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [behance.net/giuseppdichia1](behance.net/giuseppdichia1)
 
-- 📝 I <del>regularly</del> write articles on [giuseppegabrieledichiara.it/blog](giuseppegabrieledichiara.it/blog)
+- 📝 I <del>regularly</del> write articles on [giuseppedichiara.com/blog](giuseppedichiara.com/blog)
 
-- 📫 How to reach me **me@giuseppedichiara.it**
+- 📫 How to reach me **me@giuseppedichiara.com**
 
 - ⌨️ My Codepen profile [codepen.io/dichiara19](codepen.io/dichiara19)
 
