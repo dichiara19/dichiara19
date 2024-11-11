@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giuseppe Gabriele Di Chiara</h1>
+<h1 align="center">Hi 👋, I'm Giuseppe Di Chiara</h1>
 <h3 align="center">A passionate web developer, a Wordpress expert</h3>
 
 - 👯 I’m looking to collaborate on **web projects**
