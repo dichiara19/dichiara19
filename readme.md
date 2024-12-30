@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Di Chiara</h1>
-<h3 align="center">A passionate web developer, a Wordpress expert</h3>
+<h3 align="center">A passionate web developer based in Palermo</h3>
 
-- 👯 I’m looking to collaborate on **web projects**
+- 👯 I’m looking to collaborate on **web projects** and **app projects**
 
-- 👨‍💻 All of my projects are available at [behance.net/giuseppdichia1](behance.net/giuseppdichia1)
+- 👨‍💻 All of my projects are available at [behance.net/giuseppdichia1](https://behance.net/giuseppdichia1)
 
-- 📝 I <del>regularly</del> write articles on [giuseppedichiara.com/blog](giuseppedichiara.com/blog)
+- 📝 I <del>regularly</del> write articles on [giuseppedichiara.com/blog](https://giuseppedichiara.com/articles)
 
 - 📫 How to reach me **me@giuseppedichiara.com**
 
-- ⌨️ My Codepen profile [codepen.io/dichiara19](codepen.io/dichiara19)
+- ⌨️ My Codepen profile [codepen.io/dichiara19](https://codepen.io/dichiara19)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
