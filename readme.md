@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **me@giuseppedichiara.com**
 
-- 🔧 Check out my experiments on [[Codepen](https://codepen.io/dichiara19).]
-
 - 🌩️ Fun fact **I’m developing an app to gamify beer drinking with friends! 🍻**
 
 <h3 align="left">Connect with me:</h3>
