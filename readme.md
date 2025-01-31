@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my site](https://giuseppedichiara.com)
 
-- 🌱 I’m currently learning **Next.JS, Flutter, React Native**
+- 🌱 I’m currently learning **Next.JS, React Native**
 
 - 💚 I’m currently focusing on ***React Native projects** and **WordPress custom themes****
 
