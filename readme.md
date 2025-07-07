@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dichiara19" alt="dichiara19" /></a> </p>
 
-- 🔭 I’m currently working on [my site](https://giuseppedichiara.com)
+- 🔭 I’m currently working on [Orogel](https://orogel.it)
 
 - 🌱 I’m currently learning **Next.JS, React Native**
 
-- 💚 I’m currently focusing on ***React Native projects** and **WordPress custom themes****
+- 💚 I’m currently focusing on ***React Native projects** for Cous Cous Fest**
 
 - 👨‍💻 All of my projects are available at [https://giuseppedichiara.com/](https://giuseppedichiara.com/)
 
