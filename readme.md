@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dichiara19" alt="dichiara19" /></a> </p>
 
-- 🔭 I’m currently working on [Orogel](https://orogel.it)
+- 🔭 I’m currently working on [Orogel](https://orogel.it) website
 
 - 🌱 I’m currently learning **Next.JS, React Native**
 
 - 💚 I’m currently focusing on ***React Native projects** for Cous Cous Fest**
 
-- 👨‍💻 All of my projects are available at [https://giuseppedichiara.com/](https://giuseppedichiara.com/)
+- 👨‍💻 Some of my projects are available at [https://giuseppedichiara.com/](https://giuseppedichiara.com/)
 
 - 📝 I regularly write articles on [https://giuseppedichiara.com/articles](https://giuseppedichiara.com/articles)
 
-- 💬 Ask me about **wordpress, drupal, strapi, nextjs, react native**
+- 💬 Ask me about *"drupal, strapi, nextjs, react native** but also **wordpress**
 
 - 📫 How to reach me **me@giuseppedichiara.com**
 
