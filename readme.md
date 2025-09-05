@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next.JS, React Native**
 
-- 💚 I’m currently focusing on ***React Native projects** for Cous Cous Fest**
+- 💚 I’m currently focusing on ***React Native projects** for Cous Cous Fest
 
 - 👨‍💻 Some of my projects are available at [https://giuseppedichiara.com/](https://giuseppedichiara.com/)
 
 - 📝 I regularly write articles on [https://giuseppedichiara.com/articles](https://giuseppedichiara.com/articles)
 
-- 💬 Ask me about *"drupal, strapi, nextjs, react native** but also **wordpress**
+- 💬 Ask me about **drupal, strapi, nextjs, react native** but also **wordpress**
 
 - 📫 How to reach me **me@giuseppedichiara.com**
 
