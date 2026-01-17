@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Di Chiara</h1>
-<h3 align="center">Web Developer | Next.JS | CMS Expert</h3>
+<h3 align="center">Web Developer | Next.JS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dichiara19&label=Profile%20views&color=0e75b6&style=flat" alt="dichiara19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dichiara19" alt="dichiara19" /></a> </p>
 
-- 🔭 I’m currently working on [Orogel](https://orogel.it) website
+- 🔭 I’m currently working on [INFN Progetti scuole](https://progettiscuola.infn.it) website
 
 - 🌱 I’m currently learning **Next.JS, React Native**
 
-- 💚 I’m currently focusing on ***React Native projects** for Cous Cous Fest
-
-- 👨‍💻 Some of my projects are available at [https://giuseppedichiara.com/](https://giuseppedichiara.com/)
+- 👨‍💻 Some of my projects are available at [https://giuseppedichiara.com/](https://giuseppedichiara.com/projects)
 
 - 📝 I regularly write articles on [https://giuseppedichiara.com/articles](https://giuseppedichiara.com/articles)
 
