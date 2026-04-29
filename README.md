@@ -192,11 +192,7 @@ Brands I've delivered work for include **Conad**, **Mercedes Palermo**, **Bia Co
 
 I write (in Italian) about web development, AI tooling, and engineering practice on [giuseppedichiara.com](https://giuseppedichiara.com/articles/).
 
-<!-- BLOG-POST-LIST:START -->
-- [Claude Code vs Codex: confronto onesto nel 2026](https://giuseppedichiara.com/articles/intelligenza-artificiale/claude-code-vs-codex-confronto-2026/)
-- [Il BullshitBench di Peter Gostev: il benchmark che misura la servilità degli LLM](https://giuseppedichiara.com/articles/intelligenza-artificiale/il-bullshitbench-di-peter-gostev-il-benchmark-che-misura-la-servilita-degli-llm/)
-- [WordPress + ACF nel 2026: uno stack ancora solido (se sai come usarlo)](https://giuseppedichiara.com/articles/sviluppo-web/wordpress-acf-nel-2026-uno-stack-ancora-solido-se-sai-come-usarlo/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Code vs Codex: confronto onesto nel 2026](https://giuseppedichiara.com/articles/intelligenza-artificiale/claude-code-vs-codex-confronto-2026/) — _$date_- [Il BullshitBench di Peter Gostev: il benchmark che misura la servilità degli LLM](https://giuseppedichiara.com/articles/intelligenza-artificiale/il-bullshitbench-di-peter-gostev-il-benchmark-che-misura-la-servilita-degli-llm/) — _$date_- [WordPress + ACF nel 2026: uno stack ancora solido &lpar;se sai come usarlo&rpar;](https://giuseppedichiara.com/articles/sviluppo-web/wordpress-acf-nel-2026-uno-stack-ancora-solido-se-sai-come-usarlo/) — _$date_- [DeepSeek V4: Il risveglio del Dragone che distruggerà il monopolio della Silicon Valley](https://giuseppedichiara.com/articles/intelligenza-artificiale/deepseek-v4-il-risveglio-del-dragone-che-distruggera-silicon-valley/) — _$date_- [Il paradosso siciliano dell&#39;efficienza: Perché le PMI ignorano l&#39;automazione che costa meno di un dipendente?](https://giuseppedichiara.com/articles/business-strategia/paradosso-siciliano-efficienza-pmi/) — _$date_<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles](https://giuseppedichiara.com/articles/)
 
