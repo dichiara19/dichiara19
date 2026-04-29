@@ -19,7 +19,7 @@
 
 ### 👋 About me
 
-Full-Stack Developer & IT Consultant based in **Palermo, Italy**. **6+ years** in the industry, the last **3 as a registered freelancer**, building web platforms, complex integrations and cloud infrastructure end-to-end — from architecture to deployment.
+Full-Stack Developer & IT Consultant based in **Palermo, Italy**. **6+ years** in the industry, the last **5 as a registered freelancer**, building web platforms, complex integrations and cloud infrastructure end-to-end — from architecture to deployment.
 
 I work across modern stacks (Next.js, Vue, Laravel, Strapi) and proven ones (PHP, WordPress, LAMP), with a deliberate focus on **security, performance and code quality**. I cover both the application layer and the infrastructure that runs it.
 
