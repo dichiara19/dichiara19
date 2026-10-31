@@ -30,11 +30,11 @@ Available for freelance development, technical consulting and agency partnership
 I write in Italian about web development, AI tools and engineering on [my blog](https://giuseppedichiara.com/articles/).
 
 <!-- BLOG-POST-LIST:START -->
+- [Limiti di utilizzo di Claude Code e Codex: il contatore che manca](https://giuseppedichiara.com/articles/intelligenza-artificiale/limiti-utilizzo-claude-code-codex-consumi-anomali/)
 - [Mistral Large 4 alla prova: il modello europeo che sfiora la frontiera](https://giuseppedichiara.com/articles/intelligenza-artificiale/mistral-large-4-prova-coding-modello-europeo/)
 - [Watermark AI nelle immagini: C2PA, SynthID e AI Act](https://giuseppedichiara.com/articles/intelligenza-artificiale/watermark-ai-immagini-c2pa-synthid-ai-act/)
 - [LLM in locale con Claude Code: Bonsai 2 27B su una GPU da 8 GB](https://giuseppedichiara.com/articles/intelligenza-artificiale/llm-in-locale-claude-code-bonsai-2-27b/)
 - [Chrome DevTools MCP su WSL2: Claude Code senza uscire da Linux](https://giuseppedichiara.com/articles/intelligenza-artificiale/chrome-devtools-mcp-wsl2-claude-code/)
-- [Bandi pubblici su misura: notifiche automatiche per la tua azienda](https://giuseppedichiara.com/articles/business-strategia/bandi-pubblici-su-misura-notifiche-automatiche/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
